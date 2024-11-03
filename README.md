@@ -1,2 +1,2 @@
-# macOS-Installation-animation
-A project that simulate the process of masOS installation.
+# macOS-Installation-Animation
+A project that simulates the process of macOS installation.
